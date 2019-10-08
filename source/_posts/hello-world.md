@@ -36,3 +36,4 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+![](https://raw.githubusercontent.com/ouge/images/master/20191008210626.png)
